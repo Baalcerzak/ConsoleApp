@@ -2,3 +2,4 @@
 
 Console.WriteLine("Modyfikacja 1");
 // Correcting commit message
+Console.WriteLine("Modyfikacja 2");
